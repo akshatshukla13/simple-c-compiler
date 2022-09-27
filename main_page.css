@@ -1,0 +1,99 @@
+/*
+	@name main_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 360px; width: 360px; height: 800px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_main_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 800px;
+}
+
+#_bg__main_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 800px;
+	background:rgba(255,255,255,1);
+}
+
+
+#unsplash_xjxwbfso2f0 {
+	top: -90px;
+	left: -38px;
+	width: 398px;
+	height: 898px;
+}
+
+#group_1_cls_a {
+	top: 145px;
+	left: 68px;
+	width: 224px;
+	height: 230px;
+	position: absolute;
+}
+
+#unsplash_56w_xo2zzm4 {
+	top: 0px;
+	left: 0px;
+	width: 224px;
+	height: 230px;
+}
+
+
+#click_heart_to_code_c {
+	top: 400px;
+	left: 43px;
+	width: 302px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Font Awesome 6 Brands;
+	font-size: 20px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FF3E00;
+}
+
+#page__2ndpage_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 800px;
+}
+
+#_bg___2ndpage_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 800px;
+	background:rgba(255,255,255,1);
+}
+
+
+#unsplash_xjxwbfso2f0_ek1 {
+	top: -90px;
+	left: -38px;
+	width: 398px;
+	height: 898px;
+}
+
+
+
+/* Add your custom CSS here */
